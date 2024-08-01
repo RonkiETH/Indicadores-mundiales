@@ -1,15 +1,17 @@
 # Indicadores mundiales
 
 En este proyecto, se realiza una integración de las fuentes de datos proporcionadas, sumarizando información clave por medio de mapas y gráficos interactivos en dos reportes:
--Reporte 1: Población por país y continente
--Reporte 2: Indicadores mundiales de Esperanza de vida y Mortalidad infantil
+
+- **Reporte 1**: Población por país y continente
+- **Reporte 2**: Indicadores mundiales de Esperanza de vida y Mortalidad infantil
 
 Se realizan análisis por las categorías de:
--Grupos de Continente
--Grupos de Población (De mayor a menor cantidad de población)
--Grupos de Esperanza de vida (De mayor a menor Esperanza de vida)
--Grupos de Mortalidad Infantil (De mayor a menor Mortalidad Infantil)
--Relación entre Esperanza de vida y Mortalidad Infantil
+
+- Grupos de Continente
+- Grupos de Población (De mayor a menor cantidad de población)
+- Grupos de Esperanza de vida (De mayor a menor Esperanza de vida)
+- Grupos de Mortalidad Infantil (De mayor a menor Mortalidad Infantil)
+- Relación entre Esperanza de vida y Mortalidad Infantil
 
 
 ## Screenshots
